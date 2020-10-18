@@ -1,6 +1,3 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+I'm Sourin Majumdar.
+I'm getting into open source.
+I want to learn.
